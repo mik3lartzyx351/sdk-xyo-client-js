@@ -26,7 +26,7 @@
     "@xyo-network/payloadset-plugin": "workspace:~",
     "@xyo-network/typechain": "^2.2.4",
     "@xyo-network/uniswap-crypto-market-payload-plugin": "workspace:~",
-    "@xyo-network/uniswap-typechain": "^2.2.4",
+    "@xyo-network/uniswap-typechain": "^3.0.5",
     "@xyo-network/witness-model": "workspace:~"
   },
   "peerDependencies": {
